@@ -17,7 +17,7 @@ The project consists of two packages and a resource directory:
 <p>Pre-processing is done to improve accuracy of Data. It also avoids unnecessary data processing in each phase. It includes Remove Unnecessary Words (Like Oh!, OMG!, Smileys, hello guys, thanks, etc.) and Non Alphabetical characters.</p>
 
 <h3>TOKENIZE</h3>
-<p>This function will read reviews from Text File. The Text Files consists of paragraphs. So the entire file will break into sentence. This sentence can individually use for mining.</p>
+<p>This function will read tweets from Text File. The Text Files consists of paragraphs. So the entire file will break into sentence. This sentence can individually use for mining.</p>
 
 <h3>POS (Part Of Speech) Tagging</h3>
 <p>Tagging is the process of assigning a part of speech marker to each word in an input text. Because tags are generally also applied to punctuation, tokenization is usually performed before, or as part of, the tagging process.</p>
