@@ -30,8 +30,7 @@ The project consists of two packages and a resource directory:
 
 Negations should be handled appropriately to get the contextual information of a sentence. If the opinion word is in negative relation, then its priority score is reversed for negation handling purpose.</p>
 
-<h3>ASPECT EXTRACTION</h3>
-<p>Aspects are the important words told in a speech. The aspects for a particular domain are identified through the training process. An aspect may be a single word or a phrase. In order to extract the aspect, searching of noun and noun phrases of the reviews are needed.</p>
+
 
 
 
